@@ -7,7 +7,10 @@ Welcome to the new home of InfoTech Tools! We are currently working on building 
 ## Mission
 Our mission at InfoTech Tools (infotech.tools) is to empower the global Information Technology (IT) community by providing open-source tools, discussions, and IT resources that are community curated and community-driven. We believe that everyone should have access to the tools and resources they need to thrive in the field, and we are committed to making that happen.
 
-## Sponsors
+# Contributing
+*Work in progress*
+
+# Sponsors
 **Castra Labs (X Labs)**
 
 Castra Labs is dedicated to the Information Technology Community and has sponsored this project under their X-Labs project. Scale your business with lightning fast, secure and fully-managed WordPress hosting. 
